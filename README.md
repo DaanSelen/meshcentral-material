@@ -27,6 +27,14 @@ sudo systemctl restart meshcentral.service
 
 After that browse to your MeshCentral server IP or domain.<br>
 
+If you want to translate this into all languages, let it translate with the following command:
+
+```shell
+node node_modules/meshcentral --translate
+```
+
+This can take a while, but after that restart the service and it should work in all languages.
+
 # Image showcase:
 
 ![image](https://github.com/DaanSelen/meshcentral-material/assets/80752476/37a440aa-aecc-4279-bf0f-1c4da2355e5e)
