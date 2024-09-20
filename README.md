@@ -27,7 +27,7 @@ sudo systemctl restart meshcentral.service
 
 After that browse to your MeshCentral server IP or domain.<br>
 
-If you want to translate this into all languages, let it translate with the following command:
+If you want to translate this into all languages, let it translate with the following command while being in the MeshCentral root folder:
 
 ```shell
 node node_modules/meshcentral --translate
