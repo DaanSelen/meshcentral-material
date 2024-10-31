@@ -1,5 +1,6 @@
-> [Info]
-> This project has been succeeded by the Bootstrap UI made in the main MeshCentral branch.
+> [!NOTE]
+> **This project has been succeeded by the Bootstrap UI made in the main MeshCentral branch. 🎉**
+<hr>
 
 # MeshCentral Material UI:
 his repository contains a custom UI for MeshCentral based on Material UI, originally created by [ijustw0rkhere](https://github.com/ijustw0rkhere).
